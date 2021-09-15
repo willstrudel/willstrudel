@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @willstrudel
 - 👀 I’m interested in coding, music, and cooking.
-- 🌱 I’m currently learning at the Ga Tech Coding Bootcamp!
+- 🌱 I’ve recently graduated from the Ga Tech Full Stack Coding Bootcamp!
 - 💞️ I’m looking to collaborate on different projects. 
 - 📫 How to reach me - willstruder@gmail.com
 
